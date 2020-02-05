@@ -8,20 +8,23 @@ h1 {
     margin: 0;
     height: 83px;
     color: white;
-    font-size: -webkit-xxx-large;
+    font-size: -webkit-xxx-large
 }
 
 div {
 display: inline-flex;
-font-size: xx-large; line-height: 200%;background-color: white;
+font-size: xx-large; 
+line-height: 200%;
+background-color: white;
 }
-p { padding: 15px;
+p { 
+    padding: 15px;
     margin: 0px;
     text-align: justify;
     font-style: oblique;
 }
 div img {
-   width: 300px;
+   width: 500px;
 }
 @media (max-width: 800px){
     div {

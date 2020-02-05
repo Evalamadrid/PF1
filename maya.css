@@ -21,7 +21,7 @@ p { padding: 15px;
     font-style: oblique;
 }
 div img {
-   width: 300px;
+   width: 500px;
 }
 @media (max-width: 800px){
     div {
@@ -46,3 +46,4 @@ div img {
  
 
 }
+
