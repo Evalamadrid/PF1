@@ -36,6 +36,10 @@ display: inline;
     border-bottom: solid #85D4B7;
   
 }
+.menu li:hover {
+    box-shadow: black;
+
+}
 .menu a {
     text-decoration: none;
     color: white;
@@ -71,7 +75,7 @@ display: inline;
 }
 main{
     background-color: white;
-    width: 97%;
+    width: 100%;
 }
 .primero {
     text-align: right;
@@ -99,7 +103,6 @@ main img{
 
 .uno img {
     width: 100%;
-    padding-right: 10px;
 }
 
 .dos img{
@@ -140,10 +143,7 @@ footer a {
     nav{
         width: 100%;
     }
-    main{
-        width: 100%;
-    }
-
+  
     .menu li {
         display: inline;
         background-color: #85D4B7;;
@@ -184,7 +184,9 @@ footer a {
     .redes{
         padding: 30px 20px;
     }
+  
     main {
+        width: 100%;
         display: flex
     }
     .tres img {
